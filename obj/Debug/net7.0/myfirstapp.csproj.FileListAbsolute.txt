@@ -1,0 +1,17 @@
+/home/marco/Documentos/C-sharp Project/myfirstapp/bin/Debug/net7.0/myfirstapp
+/home/marco/Documentos/C-sharp Project/myfirstapp/bin/Debug/net7.0/myfirstapp.deps.json
+/home/marco/Documentos/C-sharp Project/myfirstapp/bin/Debug/net7.0/myfirstapp.runtimeconfig.json
+/home/marco/Documentos/C-sharp Project/myfirstapp/bin/Debug/net7.0/myfirstapp.dll
+/home/marco/Documentos/C-sharp Project/myfirstapp/bin/Debug/net7.0/myfirstapp.pdb
+/home/marco/Documentos/C-sharp Project/myfirstapp/obj/Debug/net7.0/myfirstapp.csproj.AssemblyReference.cache
+/home/marco/Documentos/C-sharp Project/myfirstapp/obj/Debug/net7.0/myfirstapp.GeneratedMSBuildEditorConfig.editorconfig
+/home/marco/Documentos/C-sharp Project/myfirstapp/obj/Debug/net7.0/myfirstapp.AssemblyInfoInputs.cache
+/home/marco/Documentos/C-sharp Project/myfirstapp/obj/Debug/net7.0/myfirstapp.AssemblyInfo.cs
+/home/marco/Documentos/C-sharp Project/myfirstapp/obj/Debug/net7.0/myfirstapp.csproj.CoreCompileInputs.cache
+/home/marco/Documentos/C-sharp Project/myfirstapp/obj/Debug/net7.0/myfirstapp.dll
+/home/marco/Documentos/C-sharp Project/myfirstapp/obj/Debug/net7.0/refint/myfirstapp.dll
+/home/marco/Documentos/C-sharp Project/myfirstapp/obj/Debug/net7.0/myfirstapp.pdb
+/home/marco/Documentos/C-sharp Project/myfirstapp/obj/Debug/net7.0/myfirstapp.genruntimeconfig.cache
+/home/marco/Documentos/C-sharp Project/myfirstapp/obj/Debug/net7.0/ref/myfirstapp.dll
+/home/marco/Documentos/C-sharp Project/myfirstapp/bin/Debug/net7.0/Newtonsoft.Json.dll
+/home/marco/Documentos/C-sharp Project/myfirstapp/obj/Debug/net7.0/myfirstapp.csproj.CopyComplete
